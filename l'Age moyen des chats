@@ -50,4 +50,4 @@ let ok = Animals.filter(dog).map(fois).reduce(add);
 
 
 
-console.log(`L'age  moyen des chiens est de ${ok}`);
+console.log(`L'age  moyen des chats est de ${ok}`);
